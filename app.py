@@ -8,7 +8,6 @@ Original file is located at
 """
 
 
-from google.colab import files
 
 uploaded = files.upload()
 
