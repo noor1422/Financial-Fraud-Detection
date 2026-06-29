@@ -9,8 +9,6 @@ Original file is located at
 
 
 
-uploaded = files.upload()
-
 
 
 # Commented out IPython magic to ensure Python compatibility.
