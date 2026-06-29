@@ -688,6 +688,6 @@ uploaded = files.upload()
 
 
 
-!streamlit run app.py &>/content/log.txt &
 
-!lt --port 8501
+
+
