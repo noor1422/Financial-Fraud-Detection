@@ -686,7 +686,7 @@ uploaded = files.upload()
 #             )
 #
 
-!npm install -g localtunnel
+
 
 !streamlit run app.py &>/content/log.txt &
 
